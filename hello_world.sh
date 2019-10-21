@@ -1,1 +1,1 @@
-echo 'Hello, World'
+echo '部長っちへ'
